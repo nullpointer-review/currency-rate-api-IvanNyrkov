@@ -37,3 +37,4 @@ It gets data about currency rates from [Central Bank of Russia](http://www.cbr.r
 ### Installation
     1. mvn package
     2. java -jar target/Currency.jar 
+    (default port is 7654)
